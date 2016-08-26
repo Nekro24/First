@@ -1,3 +1,6 @@
 # First
-Is a tool that try to do something utily.
-In process.
+
+Hi everyone
+
+This is my first poject 
+(trying to do some tool utily)
